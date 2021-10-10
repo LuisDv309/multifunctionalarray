@@ -1,0 +1,12 @@
+﻿  ArraysPractice.cpp
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(12,5): error C2065: 'cout': undeclared identifier
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(12,55): error C2065: 'endl': undeclared identifier
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(13,5): error C2065: 'cout': undeclared identifier
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(13,55): error C2065: 'endl': undeclared identifier
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(20,9): error C2065: 'cout': undeclared identifier
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(20,45): error C2065: 'endl': undeclared identifier
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(21,9): error C2065: 'cout': undeclared identifier
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(21,29): error C2065: 'endl': undeclared identifier
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(24,19): error C3861: 'Maxim': identifier not found
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(25,5): error C2065: 'cout': undeclared identifier
+C:\Users\270161235\OneDrive - UP Education\Desktop\C++103\ArraysPractice\ArraysPractice\ArraysPractice.cpp(25,64): error C2065: 'endl': undeclared identifier
